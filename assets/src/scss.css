@@ -1,0 +1,19 @@
+.btn-primary {
+    --bs-btn-padding-x: 3rem !important;
+    --bs-btn-padding-y: 1.25rem !important;
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #8886FA !important;
+    --bs-btn-border-color: #8886FA !important;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #4644D9 !important;
+    --bs-btn-hover-border-color: #4644D9 !important;
+    --bs-btn-focus-shadow-rgb: 49,132,253 !important;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: ##8886FA;
+    --bs-btn-active-border-color: ##8886FA;
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #8886FA;
+    --bs-btn-disabled-border-color: #8886FA;
+    box-shadow: 0px 0px 48px rgba(136, 134, 250, 0.7) !important;
+    border-radius: 2px 40px !important;
+}
